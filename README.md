@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ⚡ I study Comp Data Science at Michigan State University
+- 📫 Reach me @ parisot1@msu.edu 
